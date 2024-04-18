@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I make... stuff?<br>I like to work on some personal projects, which you can check out at <a href="https://rlackbights.github.io">rlackbights.github.io</a></p>
+<p align="left">I make... stuff?<br>I like to work on some personal projects, which you can check out at <a target="_blank" href="https://rlackbights.github.io">rlackbights.github.io</a></p>
 
 ###
 
