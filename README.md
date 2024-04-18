@@ -12,7 +12,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RlackBights/RlackBights/output/snake.svg" alt="Snake animation" />
+<img src="./snake.svg" alt="Snake animation" />
 
 ###
 
