@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Yeah, that's all for now. If I get some ideas what to write here maybe I1ll expand it a bit</p>
+<p align="left">Yeah, that's all for now. If I get some ideas what to write here maybe I'll expand it a bit</p>
 
 ###
 
