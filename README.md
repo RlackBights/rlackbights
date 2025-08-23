@@ -14,7 +14,7 @@
 <li><strong>Video Games 🎮</strong>, which I'm the most passionate about, mostly using the Unity engine (not for long) and C# (also not for long) <i>(7+ years as of 2025)</i></li>
 <li><strong>C++ 🌊➕➕</strong>, my most beloved singular project being my own game engine that I'm working on as my university capstone project, which will replace unity as soon as I am done with all the features I tend to use</li>
 <li><strong>Frontend and backend applications 👉👈</strong> using React (+ electron), typescript and Node.js, but php/laravel, Vue or angular also works if you ask nicely enough <i>(6+ years as of 2025) ((With actual job experience))</i></li>
-<li><strong>Miscellaneous languages/technologies🗑️🔥</strong> such as C, Java, Python and Lua for smaééer projects like personal tools or mods for different videogames</li>
+<li><strong>Miscellaneous languages/technologies🗑️🔥</strong> such as C, Java, Python and Lua for smaller projects like personal tools or mods for different videogames</li>
 </ul><br>
 
 <h2 align="center">Featured Projects</h2>
